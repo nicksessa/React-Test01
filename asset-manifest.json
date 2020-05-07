@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nicksessa.github.io/react-test01/static/css/main.36fe29b4.chunk.css",
+    "main.js": "/nicksessa.github.io/react-test01/static/js/main.83a128e8.chunk.js",
+    "main.js.map": "/nicksessa.github.io/react-test01/static/js/main.83a128e8.chunk.js.map",
+    "runtime-main.js": "/nicksessa.github.io/react-test01/static/js/runtime-main.9fcabc10.js",
+    "runtime-main.js.map": "/nicksessa.github.io/react-test01/static/js/runtime-main.9fcabc10.js.map",
+    "static/js/2.c78c0fe3.chunk.js": "/nicksessa.github.io/react-test01/static/js/2.c78c0fe3.chunk.js",
+    "static/js/2.c78c0fe3.chunk.js.map": "/nicksessa.github.io/react-test01/static/js/2.c78c0fe3.chunk.js.map",
+    "index.html": "/nicksessa.github.io/react-test01/index.html",
+    "precache-manifest.d760dc8298201bff1f44fb366d41536b.js": "/nicksessa.github.io/react-test01/precache-manifest.d760dc8298201bff1f44fb366d41536b.js",
+    "service-worker.js": "/nicksessa.github.io/react-test01/service-worker.js",
+    "static/css/main.36fe29b4.chunk.css.map": "/nicksessa.github.io/react-test01/static/css/main.36fe29b4.chunk.css.map",
+    "static/js/2.c78c0fe3.chunk.js.LICENSE.txt": "/nicksessa.github.io/react-test01/static/js/2.c78c0fe3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fcabc10.js",
+    "static/js/2.c78c0fe3.chunk.js",
+    "static/css/main.36fe29b4.chunk.css",
+    "static/js/main.83a128e8.chunk.js"
+  ]
+}
